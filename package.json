@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/spaceguy101/razorpayx-api/issues"
   },
-  "homepage": "https://github.com/spaceguy101/razorpayx-api#readme"
+  "homepage": "https://github.com/spaceguy101/razorpayx-api#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
